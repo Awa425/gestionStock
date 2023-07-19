@@ -1,0 +1,10 @@
+1. Creation des models
+2. Créer les DTO qui represente une copie pour chaque entité 
+3. Creation des validations pour chaque entité
+4. Creation des exceptions
+    1. EntityNotFoundException
+    2. Les code erreur
+    3. InvalidEntityException
+5. Gestionnaire global des exceptions (handles) 
+6. Creation des repository
+7. Creation des services et leurs implementations
